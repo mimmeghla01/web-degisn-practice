@@ -1,0 +1,48 @@
+.header image{
+   width: 300px !important;
+   height: 300px; 
+}
+.button1{
+   background-color:#FFD700!important;
+   
+   font-size: 17px!important;
+   padding: 5px 8px 5px 8px !important;
+}
+.button1:hover{
+   background-color: #a69a59;
+  
+}
+.headline1{
+   color: #FFC0CB;
+}
+.headline2{
+   color: #FFA07A;
+}
+.mainsection {
+   color: #f56d84;
+}
+.cardtitle{
+   color: brown;
+}
+.cardtitle1{
+   color: rgb(247, 114, 136);
+}
+.clientsection{
+   color: #f56d84;
+}
+.anothernum{
+   color: rgb(7, 7, 36);
+}
+.clientname{
+   color: #FFA07A;
+}
+.gmail{
+   color: red;
+}
+
+.facebook{
+   color:green;
+}
+.namef{
+   color: red;
+}

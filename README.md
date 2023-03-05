@@ -1,1 +1,0 @@
-# web-degisn-practice
